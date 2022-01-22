@@ -52,8 +52,3 @@ class realizations(mgm):
                 except:
                     durum[key] = datetime.now()
         return durum
-
-
-if __name__ == "__main__":
-
-    gozlem = realizations()
