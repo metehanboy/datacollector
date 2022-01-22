@@ -1,0 +1,5 @@
+
+### Standart Libs ###
+requests
+python-dateutil
+psycopg2
